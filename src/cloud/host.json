@@ -1,0 +1,4 @@
+{
+    "api_port": "http://autospare-backend-env.eba-a3yqesnt.ap-south-1.elasticbeanstalk.com/api",
+    "cloudFront": "https://d16rqpvbsk7m4d.cloudfront.net"
+}
